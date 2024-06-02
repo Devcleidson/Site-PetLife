@@ -21,17 +21,6 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 
 ![Captura de tela do PetLife](https://github.com/Devcleidson/Site-PetLife/assets/114115159/769a728b-1051-47b3-b4e1-dc960d3cccbd)
 
-## Como Contribuir
-
-Estamos sempre em busca de contribuições para melhorar o PetLife. Se você tem interesse em contribuir para o projeto, por favor, siga os passos abaixo:
-
-1. **Fork o Repositório**: Faça um 'fork' deste repositório para começar a trabalhar com sua própria cópia.
-2. **Clone seu Fork**: Clone o repositório para o seu ambiente local para começar a fazer alterações.
-3. **Crie uma Branch**: Para novos desenvolvimentos, é aconselhável criar uma nova 'branch'.
-4. **Faça suas Alterações**: Implemente suas alterações e melhorias.
-5. **Commit suas Alterações**: Faça 'commits' de suas alterações com mensagens claras e informativas.
-6. **Envie um Pull Request**: Envie um 'pull request' para o repositório original para que suas alterações possam ser revisadas e, se apropriado, mescladas.
-
 
 
 
