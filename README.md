@@ -19,8 +19,7 @@ Este repositório contém o código-fonte de um projeto de website chamado "PetL
 
 Aqui está uma captura de tela da aplicação:
 
-![Captura de tela do PetLife](![image](https://github.com/Devcleidson/Site-PetLife/assets/114115159/73c30f71-a366-4459-a53e-8fab767aefdc)
-)
+![Captura de tela do PetLife](![Captura de tela_1-6-2024_21405_](https://github.com/Devcleidson/Site-PetLife/assets/114115159/769a728b-1051-47b3-b4e1-dc960d3cccbd)
 
 ## Como Executar
 
