@@ -1,4 +1,4 @@
-# Projeto PetLife
+![Captura de tela_1-6-2024_213650_](https://github.com/Devcleidson/Site-PetLife/assets/114115159/1868e04e-f448-4d00-9c7d-0a15050d0393)# Projeto PetLife
 
 Este repositório contém o código-fonte de um projeto de website chamado "PetLife", dedicado a oferecer serviços e informações sobre cuidados veterinários e produtos para animais de estimação. O site é projetado para ser uma plataforma intuitiva e acolhedora para os donos de animais procurarem serviços veterinários, produtos para pets, e suporte para dúvidas comuns sobre cuidados com animais.
 ## Funcionalidades
