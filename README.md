@@ -19,7 +19,8 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 
 ## Captura de Tela
 
-![Captura de tela do PetLife](https://github.com/Devcleidson/Site-PetLife/assets/114115159/769a728b-1051-47b3-b4e1-dc960d3cccbd)
+![Captura de tela do PetLife](https://github.com/Devcleidson/Site-PetLife/assets/114115159/63bc154d-0ac0-40be-adef-e396c6ef91f0)
+)
 
 
 
