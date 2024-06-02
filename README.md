@@ -17,11 +17,8 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 - **JavaScript**: Funcionalidades interativas no lado do cliente.
 - **Node.js**: Ambiente de execução para o backend.
 
-## Captura de Tela
+Aqui está uma captura de tela do PetLife:
 
 ![Captura de tela do PetLife](https://github.com/Devcleidson/Site-PetLife/assets/114115159/63bc154d-0ac0-40be-adef-e396c6ef91f0)
-)
-
-
 
 
