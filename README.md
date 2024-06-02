@@ -1,30 +1,37 @@
 # Projeto PetLife
 
-Este repositório contém o código-fonte de um projeto de website chamado "PetLife", dedicado a oferecer serviços e informações sobre cuidados veterinários e produtos para animais de estimação. O site é projetado para ser uma plataforma intuitiva e acolhedora para os donos de animais procurarem serviços veterinários, produtos para pets, e suporte para dúvidas comuns sobre cuidados com animais.
+Bem-vindo ao repositório do projeto **PetLife**, um website dedicado a melhorar a vida dos animais de estimação e seus donos. Este site oferece uma plataforma robusta e fácil de usar onde os donos de pets podem encontrar serviços veterinários de qualidade, explorar uma ampla gama de produtos para seus animais e obter informações valiosas sobre o cuidado e bem-estar animal.
 
-## Funcionalidades
+## Funcionalidades do Site
 
-- **Cadastro de Pets:** Permite ao usuário cadastrar novos pets no sistema.
-- **Atualização de Informações:** Os usuários podem atualizar as informações de pets já cadastrados.
-- **Visualização de Detalhes:** Os usuários podem ver todos os detalhes relevantes de cada pet cadastrado.
+- **Cadastro de Pets:** Os usuários podem adicionar seus animais de estimação ao sistema, facilitando o gerenciamento de informações e o acesso a serviços específicos.
+- **Atualização de Informações:** É possível atualizar facilmente as informações dos pets, garantindo que todos os dados estejam sempre corretos e atualizados.
+- **Visualização de Detalhes:** Acesso a uma visualização detalhada de cada pet cadastrado, incluindo histórico médico, agendamentos futuros e mais.
 
 ## Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
+Este projeto foi construído utilizando as seguintes tecnologias:
+
+- **HTML**: Estruturação das páginas web.
+- **CSS**: Estilização e design responsivo.
+- **JavaScript**: Funcionalidades interativas no lado do cliente.
+- **Node.js**: Ambiente de execução para o backend.
 
 ## Captura de Tela
 
-Aqui está uma captura de tela da aplicação:
+![Captura de tela do PetLife](https://github.com/Devcleidson/Site-PetLife/assets/114115159/769a728b-1051-47b3-b4e1-dc960d3cccbd)
 
-![Captura de tela do PetLife](![Captura de tela_1-6-2024_21405_](https://github.com/Devcleidson/Site-PetLife/assets/114115159/769a728b-1051-47b3-b4e1-dc960d3cccbd)
+## Como Contribuir
 
-## Como Executar
+Estamos sempre em busca de contribuições para melhorar o PetLife. Se você tem interesse em contribuir para o projeto, por favor, siga os passos abaixo:
 
-Siga estas etapas para executar o projeto localmente:
+1. **Fork o Repositório**: Faça um 'fork' deste repositório para começar a trabalhar com sua própria cópia.
+2. **Clone seu Fork**: Clone o repositório para o seu ambiente local para começar a fazer alterações.
+3. **Crie uma Branch**: Para novos desenvolvimentos, é aconselhável criar uma nova 'branch'.
+4. **Faça suas Alterações**: Implemente suas alterações e melhorias.
+5. **Commit suas Alterações**: Faça 'commits' de suas alterações com mensagens claras e informativas.
+6. **Envie um Pull Request**: Envie um 'pull request' para o repositório original para que suas alterações possam ser revisadas e, se apropriado, mescladas.
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+
+
+
